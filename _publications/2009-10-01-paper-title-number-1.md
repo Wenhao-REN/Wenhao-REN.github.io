@@ -3,7 +3,20 @@ title: "Experimental study and numerical analysis of composite strengthened timb
 collection: Experimental study and numerical analysis of composite strengthened timber columns under lateral cyclic loading
 category: PDF
 permalink: /publication/2023-02-07-Experimental study and numerical analysis of composite strengthened timber columns under lateral cyclic loading
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'To develop a new composite material column for modern timber buildings and propose a reliable 
+strengthening method for existing timber columns, wrapped carbon fiber reinforced polymer 
+(CFRP) strips and near-surface mounted (NSM) steel bars reinforced timber columns were stud
+ied. Five composite strengthened timber columns were designed, fabricated and tested under 
+lateral cyclic loading. The experimental results showed that all specimens exhibited tensile 
+rupture failure of the timber grain. The hysteretic curves showed that the proposed method could 
+enhance the load-bearing capacity and deformation performance of the strengthened timber 
+columns. With an increase in the number of CFRP strips, there was a marked improvement in the 
+hysteretic performance of the specimens. Based on the experimental study, a finite element model 
+of a composite strengthened timber column was developed using the OpenSees software appli
+cation, the reliability of which was evident from the test results. A parametric study was then 
+conducted to investigate the influence of the axial load, bar diameter, and the number and 
+location of steel bars. This study aimed to provide a reference for seismic design and the practical 
+application of the composite reinforcement method.  '
 date: 2023-02-07
 venue: 'Journal of Building Engineering '
 slidesurl: 'https://doi.org/10.1016/j.jobe.2023.106077'
