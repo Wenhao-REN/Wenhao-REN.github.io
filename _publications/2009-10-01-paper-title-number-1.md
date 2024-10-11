@@ -1,6 +1,6 @@
 ---
 title: "Experimental study and numerical analysis of composite strengthened timber columns under lateral cyclic loading"
-collection: Experimental study and numerical analysis of composite strengthened timber columns under lateral cyclic loading
+collection: publications
 category: PDF
 permalink: /publication/2023-02-07-Experimental study and numerical analysis of composite strengthened timber columns under lateral cyclic loading
 excerpt: 'To develop a new composite material column for modern timber buildings and propose a reliable 
